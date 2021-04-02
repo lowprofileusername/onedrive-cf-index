@@ -18,8 +18,8 @@ const config = {
   },
 
   refresh_token: REFRESH_TOKEN,
-  client_id: '6600e358-9328-4050-af82-0af9cdde796b',
-  client_secret: CLIENT_SECRET,
+  client_id: 'c30e315b-d678-44af-8605-338fa519715d',
+  client_secret: 0IIFroJ88bLIiWK-m31M-k3_TZa-8v6eNw,
 
   /**
    * Exactly the same `redirect_uri` in your Azure Application
@@ -29,7 +29,7 @@ const config = {
   /**
    * The base path for indexing, all files and subfolders are public by this tool. For example: `/Public`.
    */
-  base: '/Public',
+  base: '/Video',
 
   /**
    * Feature: Pagination when a folder has multiple(>${top}) files
